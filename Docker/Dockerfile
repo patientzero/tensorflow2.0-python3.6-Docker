@@ -17,9 +17,9 @@ ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US:en
 ENV LC_ALL en_US.UTF-8
 
-RUN mkdir -p /work
-WORKDIR /work
+RUN mkdir -p /tmp
+WORKDIR /tmp
 
-ADD requirements.txt /work
+ADD requirements.txt /tmp
 
 RUN pip3 install --upgrade --no-cache -r requirements.txt
