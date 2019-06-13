@@ -1,4 +1,4 @@
-# Tensorflow2.0a-python3.6
+# Tensorflow2.0-python3.6
 Dockerfile with tensorflow 2.0a, cuda 10.0 and python 3.6 intended as a base image for machine learning.
 
 Simple image based on the cuda10.0-devl image.
