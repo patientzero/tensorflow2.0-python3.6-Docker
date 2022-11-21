@@ -4,4 +4,4 @@ click==7.0
 numpy==1.16.3
 pandas==0.24.2
 pathlib==1.0.1
-tensorflow-gpu==2.0.0-beta0
+tensorflow-gpu==2.9.3
