@@ -1,5 +1,5 @@
 -i https://pypi.org/simple
-setuptools==41.0.1
+setuptools==65.5.1
 click==7.0
 numpy==1.16.3
 pandas==0.24.2
